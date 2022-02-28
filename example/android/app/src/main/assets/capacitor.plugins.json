@@ -1,6 +1,6 @@
 [
-	{
-		"pkg": "@capacitor-community/http",
-		"classpath": "com.getcapacitor.plugin.http.Http"
-	}
+  {
+    "pkg": "@vndr/capacitor-http",
+    "classpath": "com.getcapacitor.plugin.http.Http"
+  }
 ]
