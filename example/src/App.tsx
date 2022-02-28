@@ -1,7 +1,7 @@
 import { IonButton, IonCol, IonContent, IonGrid, IonHeader, IonInput, IonItem, IonLabel, IonRow, IonTextarea, IonTitle, IonToolbar } from '@ionic/react';
 import React, { useState } from 'react';
 
-import { Http } from '@vndr/capacitor-http';
+import { Http } from '@vndrllc/capacitor-http';
 
 const defaultJsonBody = {
   foo: 'bar',
